@@ -20,7 +20,7 @@
 
 1. Suppose that you have an s3 bucket, `bucket`, which contains a file, `wordlist` that contains a comma-separated list of words. Write a lambda function which will  receive a json event payload containing a query string. The Lambda function should check whether the query word is in the wordlist and place the result on an SQS queue as well as return it.
 
-                  Sample wordlist:
+   Sample wordlist:
 
    ``` 
    working,for,okcupid,is,really,fun,come,join,us
