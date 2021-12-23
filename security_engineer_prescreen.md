@@ -20,7 +20,7 @@
 15. What is a botnet? Explain how they work. 
 16. What is the difference between public and private IP addresses? How do you identify either? 
 17. What is MFA? List the factors.
-18. What is the difference between Symmetric and Asymmetric encryption? Below you will use gpg to encrypt a folder, what type of encryption is gpg an example of
+18. What is the difference between Symmetric and Asymmetric encryption? Below you will use gpg to encrypt a folder, what type of encryption is gpg an example of?
 
 ### The below is intended to test your comfort level with scripting and experience with different technologies, such as AWS, Terraform, Bash and/or Python. Please answer what you can to the best of your ability. When you complete this tasks, create .txt or a .MD called `results` with the output of the questions you completed (be sure to annotate the question number), make a directory named `submission_<your initials>` and copy all the code and the results file to the directory - Please include the answers to the questions above as well. 
 ### You will then encrypt the directory with our public gpg key and upload it to your fork and open a PR. (Our key is uploaded to `keys.openpgp.org` with the email `security@okcupid.com`. If you are unfamiliar with this process please use this site as reference `https://yanhan.github.io/posts/2017-09-27-how-to-use-gpg-to-encrypt-stuff/`)
