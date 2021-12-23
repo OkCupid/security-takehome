@@ -14,7 +14,7 @@
 7. What is the principle of least privilege and why is it important? Provide an example.
 9. What is a CVE?
 11. What does the OWASP top 10 refer to? Pick one and explain an experience you had mitigating or exploiting it. 
-12. Explain how firewall rule work.
+12. Explain how firewall rules work.
 13. What is DNS?
 14. Explain SSL/TLS. Are they the same? Which one is better?
 15. What is a botnet? Explain how they work. 
