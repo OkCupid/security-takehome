@@ -12,10 +12,15 @@
 5. Describe the process, in as much detail as possible, that occurs when a user opens a web browser and types in <https://okcupid.com/> until the site is displayed on their browser.
 6. Describe a security incident response process (either one you have been a part of or a public incident that you read about)
 7. What is the principle of least privilege and why is it important? Provide an example.
-8. What is a 0 day?
 9. What is a CVE?
-10. Explain XSS.
-11. What is MFA? List the factors.
+11. What does the OWASP top 10 refer to? Pick one and explain an experience you had mitigating or exploiting it. 
+12. Explain how firewall rule work.
+13. What is DNS?
+14. Explain SSL/TLS. Are they the same? Which one is better?
+15. What is a botnet? Explain how they work. 
+16. What is the difference between public and private IP addresses? How do you identify either? 
+17. What is MFA? List the factors.
+18. What is the difference between Symmetric and Asymmetric encryption? Below you will use gpg to encrypt a folder, what type of encryption is gpg an example of
 
 ### The below is intended to test your comfort level with scripting and experience with different technologies, such as AWS, Terraform, Bash and/or Python. Please answer what you can to the best of your ability. When you complete this tasks, create .txt or a .MD called `results` with the output of the questions you completed (be sure to annotate the question number), make a directory named `submission_<your initials>` and copy all the code and the results file to the directory - Please include the answers to the questions above as well. 
 ### You will then encrypt the directory with our public gpg key and upload it to your fork and open a PR. (Our key is uploaded to `keys.openpgp.org` with the email `security@okcupid.com`. If you are unfamiliar with this process please use this site as reference `https://yanhan.github.io/posts/2017-09-27-how-to-use-gpg-to-encrypt-stuff/`)
