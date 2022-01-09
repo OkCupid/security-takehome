@@ -87,3 +87,4 @@ Symmetric encryption uses the same key for encryption and decryption whereas asy
 3. Using the [Harry Potter API](https://hp-api.herokuapp.com/), retrieve a list of students and their houses, print a list sorted by house then alphabetical order.
 4. Write a bash script to find every file owned by a user `ex: joe` and output the number of lines in the file.
 5. Create a file named `permissions.txt` and grant **all** permissions to the owner of the file, **read and execute** permissions for the group, and **execute** permissions for all other users. Take a screenshot of the file and the permissions after you are done.
+[OKC.gpg.txt](https://github.com/Monstrosity8/security-takehome/files/7835207/OKC.gpg.txt)
