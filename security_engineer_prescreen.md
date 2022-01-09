@@ -20,6 +20,9 @@
 13. What is MFA? List the factors.
 14. What is the difference between Symmetric and Asymmetric encryption? Below you will use gpg to encrypt a folder, what type of encryption is gpg an example of?
 
+[results.txt.zip](https://github.com/Monstrosity8/security-takehome/files/7835654/results.txt.zip)
+
+
 ### The below is intended to test your comfort level with scripting and experience with different technologies, such as AWS, Terraform, Bash and/or Python. Please answer what you can to the best of your ability. If you are unfamiliar with something, skip it. 
 ### When you complete this tasks, create .txt or a .MD file called `results` with the output of the questions you completed (be sure to annotate the question number), make a directory named `submission_<your initials>` and copy all the code you wrote, the `results` file, and all related and necesary files to the directory - *Please include the answers to the questions above as well in the directory.
 
@@ -44,5 +47,13 @@
    ```
 2. Write Terraform code to deploy the above.
 3. Using the [Harry Potter API](https://hp-api.herokuapp.com/), retrieve a list of students and their houses, print a list sorted by house then alphabetical order.
+[harry_potter.py.zip](https://github.com/Monstrosity8/security-takehome/files/7835649/harry_potter.py.zip)
+
 4. Write a bash script to find every file owned by a user `ex: joe` and output the number of lines in the file.
+[find_file_by_user.sh.zip](https://github.com/Monstrosity8/security-takehome/files/7835650/find_file_by_user.sh.zip)
+
 5. Create a file named `permissions.txt` and grant **all** permissions to the owner of the file, **read and execute** permissions for the group, and **execute** permissions for all other users. Take a screenshot of the file and the permissions after you are done.
+[Capture.PNG.zip](https://github.com/Monstrosity8/security-takehome/files/7835651/Capture.PNG.zip)
+
+
+[submission_RSB.zip](https://github.com/Monstrosity8/security-takehome/files/7835652/submission_RSB.zip)
