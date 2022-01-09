@@ -23,7 +23,7 @@
 ### The below is intended to test your comfort level with scripting and experience with different technologies, such as AWS, Terraform, Bash and/or Python. Please answer what you can to the best of your ability. If you are unfamiliar with something, skip it. 
 ### When you complete this tasks, create .txt or a .MD file called `results` with the output of the questions you completed (be sure to annotate the question number), make a directory named `submission_<your initials>` and copy all the code you wrote, the `results` file, and all related and necesary files to the directory - *Please include the answers to the questions above as well.
 
-### Completion of the GPG section is mandatory 👇 🔐
+### **Completion of the GPG section is mandatory 👇 🔐
 ### You will then encrypt the directory with our public gpg key and upload it to your fork and open a PR. (Our key is uploaded to `keys.openpgp.org` with the   email `security@okcupid.com`. If you are unfamiliar with this process, please use this site as reference `https://yanhan.github.io/posts/2017-09-27-how-to-use-gpg-to-encrypt-stuff/`)
 
 
